@@ -72,9 +72,7 @@ An in-depth look at the structural modifications and their implications for mode
 
 ## Implementation Highlights
 
-Insights into the coding and operational specifics that enable LongRoPE's functionality. This may include snippets or pseudocode illustrating key components.
-
-For more detailed information, please refer to the [paper](https://arxiv.org/pdf/2402.13753.pdf).
+Insights into the coding and operational specifics that enable LongRoPE's functionality. This may include snippets or pseudocode illustrating key components. For more detailed information, please refer to the [paper](https://arxiv.org/pdf/2402.13753.pdf).
 
 ## Citation
 
